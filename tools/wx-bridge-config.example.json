@@ -1,0 +1,17 @@
+{
+  "peers": [
+    {
+      "wxid": "CHANGE_ME_OWNER_WXID",
+      "name": "我的大号",
+      "kind": "owner",
+      "sessionId": "CHANGE_ME_SESSION_ID"
+    }
+  ],
+  "workspace": "C:\\wxbridge",
+  "node": "C:\\Program Files\\nodejs\\node.exe",
+  "dshBin": "C:\\Users\\<you>\\AppData\\Local\\npm-cache\\_npx\\<hash>\\node_modules\\@deepseek-ai\\dsh\\lib\\bin.js",
+  "pollSeconds": 2,
+  "staleSeconds": 1800,
+  "handleTimeout": 300,
+  "maxReplyChars": 1200
+}

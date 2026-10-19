@@ -1,0 +1,11 @@
+tmp/
+*.log
+keys.txt
+*.db
+*.db-wal
+*.db-shm
+*.db-first.material
+*.db-incremental.material
+__pycache__/
+*.pyc
+.DS_Store
